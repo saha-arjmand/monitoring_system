@@ -1,0 +1,67 @@
+ 
+. test set formule in excell cell in write class
+
+. Create issue_list for db
+
+. create source feeds tbl in db and read feed source from it
+. create skype group for send db and excel on it automatic
+. repair table when we have diff
+. add logs
+. Create BatchFile for run automatic venv
+
+
+
+
+------------------------------- done -------------------------------
+
+. read excel file in python
+. Create a list for feeds that have count 0 in edw side and save it in list folder
+. fill excel with feeds that have 0 count in edl side
+. save the last data frame to excel
+. delete number column of df -> set index column to edl_feed_name
+. convert string date to standard date
+. add custom date to excel format
+. fix bug merge tables
+. replace tmp column to original column
+. Create 2d numpy array for list that have 0 count
+. fix bugs about while
+. change date_key for feeds diffrenet _ read from excel and set on if statement
+. Check query in zeppelin
+. file_date should be date_db
+. add file_date to all elements
+. add check file exist in first time
+. Create class for init input_date in self function
+. Code modularization
+ . Create requirement.txt
+ . Create how it work.txt
+ . add version to header
+. check edw query
+. add date_key column to df
+. merge new files
+. check file exist 2d
+. add date to date_key column and merge it
+. merge feeds dont have count
+. fix feedNames in new_edw_feeds dont have count
+. solve import issue
+. add first rows (header) to final file
+. save first row for file in a dataframe
+. add issue section to code
+. delete index column in last df
+. create a list of feeds dont have count and have issue in queary generation
+. add sqllite
+. create loop in feed dont in date format and dont go next still complete list
+. fix feeds_not_in_date_format_list() with pd.isnull()
+. print feeds_not_in_date_format_list() + If the feed is one of the problematic feeds, announce it like feeds (issue)
+. Create class for table and Adapt it to the code
+. work on recheck and fix bad row count and header issue on feed list
+. merge that feeds have one feed in edw side
+. fix hint sql query for add problem type 
+. fix db bug when write to excel
+. work on null_edw module
+. change subscript folder to modules
+. change subprogram folder to programs
+. Create and learn todo list in vscode
+. come execututive in sub folder of file_source
+. Create issue_list and fix it for file
+. fix file issue list 
+. fix issue_list for file and db
